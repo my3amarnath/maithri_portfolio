@@ -6,7 +6,7 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Imapct of recession on Automobile Sale",
+    name: "Impact of recession on Automobile Sale",
     description: "Analyze the historical data of XYZ Automotives and give the company directors insights on how the sales were affected during times of recession.",
     image: "/AutombileSales.png",
     github: "https://github.com/my3amarnath/Analyzing-the-Impact-of-Recession-on-Automobile-Sales",

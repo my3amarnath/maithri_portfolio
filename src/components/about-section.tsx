@@ -10,7 +10,7 @@ const skills = [
   { skill: "Jupyter Notebooks" },
   { skill: "Visual Studio" },
   { skill: "Tableau" },
-  { skill: "Power BI," },
+  { skill: "Power BI" },
   { skill: "Machine Learning Algorithms" }
 ]
 
