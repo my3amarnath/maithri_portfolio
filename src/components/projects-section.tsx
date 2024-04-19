@@ -10,21 +10,30 @@ const projects = [
     description: "Analyze the historical data of XYZ Automotives and give the company directors insights on how the sales were affected during times of recession.",
     image: "/AutombileSales.png",
     github: "https://github.com/my3amarnath/Analyzing-the-Impact-of-Recession-on-Automobile-Sales",
-    link: "",
   },
   {
     name: "SpaceX Falcon 9 first stage Landing Prediction",
     description: "IBM Capstone Data Science project that predicts the success rate of landing SpaceX's Falcon 9 first stage by training a machine learning model and use public information to predict if SpaceX will reuse the first stage",
     image: "/SpaceXFalcon9.png",
     github: "https://github.com/my3amarnath/SpaceX-Falcon-9-first-stage-Landing-Prediction",
-    link: "",
   },
   {
     name: "Analyzing wildfire activities in Australia",
     description:"Visualization libraries such as Matplotlib, Pandas, Seaborn and Folium to create informative plots and charts for wildfire activities in Australia",
     image: "/wildfire.png",
     github: "https://github.com/my3amarnath/Analyzing-wildfire-activities-in-Australia",
-    link: "",
+  },
+  {
+    name: "Rainfall Prediction in Australia",
+    description:"Classification project in Python. Our objective is to use a rainfall dataset from the Australian Government's Bureau of Meteorology, clean the data, and apply different classification algorithms to the data.",
+    image: "/rainyAustralia.png",
+    github: "https://github.com/my3amarnath/Australian-Rainfall-Prediction",
+  },
+  {
+    name: "Analyzing census, crime, and school data in Chicago",
+    description:"SQL and python are used to analysing Chicago census, crime, and school data to understand lifestyle based on outcomes from multiple factors",
+    image: "/chicago.png",
+    github: "https://github.com/my3amarnath/Chicago-Dataset-to-analyse-and-answer-life-style-in-Chicago",
   },
 ]
 
@@ -64,8 +73,6 @@ const ProjectsSection = () => {
                           size={30}
                           className="hover:-translate-y-1 transition-transform cursor-pointer"
                         />
-                      </Link>
-                      <Link href={project.link}>
                       </Link>
                     </div>
                   </div>

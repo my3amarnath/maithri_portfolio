@@ -39,7 +39,7 @@ const AboutSection = () => {
             <p>
               I graduated from Maynooth University, Ireland in 2020
               with a Master’s Degree in Data Science and Analytics. I would say I am budding Data Scientist with extenstive experience 
-              working with one of the leading semiconductor manufacturing industries by optimizing manufacturing 
+              working with one of the leading semiconductor manufacturing industries through optimizing their manufacturing 
               processes by collecting process data, pre-processing, and 
               identifying trends and opportunities to enhance the module performance by analyzing the data sets.
             </p>
@@ -63,7 +63,7 @@ const AboutSection = () => {
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
-            <h1 className="text-2xl font-bold mb-6">My Technical Knowledge Skills</h1>
+            <h1 className="text-2xl font-bold mb-6">My Skills</h1>
             <div className="flex flex-wrap flex-row justify-center z-10 md:justify-start">
               {skills.map((item, idx) => {
                 return (
@@ -81,7 +81,7 @@ const AboutSection = () => {
               alt=""
               width={325}
               height={325}
-              className="hidden md:block md:relative md:bottom-4 md:left-32 md:z-0"
+              className="hidden md:block md:relative md:bottom-4 md:left-26 md:z-0 pt-10"
             />
           </div>
         </div>

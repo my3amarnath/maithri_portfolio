@@ -27,7 +27,7 @@ const HeroSection = () => {
               Data Analyst{" "}
             </span>
             based in Sherbrooke, Canada. Working towards improving my skills through projects that
-            make life easier and more meaningful.
+            make my career easier and more meaningful.
           </p>
           <Link
             to="projects"
