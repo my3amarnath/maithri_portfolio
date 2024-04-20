@@ -21,7 +21,7 @@ const projects = [
     name: "Standardized Water Level Index Reconstruction",
     description: "Master's Academic Data Science project. Built a predictive model for Standardized water level index using salt-marsh foraminifera as key predictive variable.",
     image: "/StandardisedWaterLevelIndex.png",
-    github: "19251022_Thesis_Report.pdf",
+    github: "Thesis_Report.pdf",
   },
   {
     name: "Analyzing wildfire activities in Australia",
