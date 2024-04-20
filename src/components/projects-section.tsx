@@ -5,12 +5,7 @@ import SlideUp from "./slide-up"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
-  {
-    name: "Impact of recession on Automobile Sale",
-    description: "Analyze the historical data of XYZ Automotives and give the company directors insights on how the sales were affected during times of recession.",
-    image: "/AutombileSales.png",
-    github: "https://github.com/my3amarnath/Analyzing-the-Impact-of-Recession-on-Automobile-Sales",
-  },
+
   {
     name: "SpaceX Falcon 9 first stage Landing Prediction",
     description: "IBM Capstone Data Science project that predicts the success rate of landing SpaceX's Falcon 9 first stage by training a machine learning model and use public information to predict if SpaceX will reuse the first stage",
@@ -22,6 +17,12 @@ const projects = [
     description: "Master's Academic Data Science project. Built a predictive model for Standardized water level index using salt-marsh foraminifera as key predictive variable.",
     image: "/StandardisedWaterLevelIndex.png",
     github: "Thesis_Report.pdf",
+  },
+  {
+    name: "Impact of recession on Automobile Sale",
+    description: "Analyze the historical data of XYZ Automotives and give the company directors insights on how the sales were affected during times of recession.",
+    image: "/AutombileSales.png",
+    github: "https://github.com/my3amarnath/Analyzing-the-Impact-of-Recession-on-Automobile-Sales",
   },
   {
     name: "Analyzing wildfire activities in Australia",

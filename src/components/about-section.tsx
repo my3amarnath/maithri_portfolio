@@ -37,11 +37,12 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from Maynooth University, Ireland in 2020
-              with a Master’s Degree in Data Science and Analytics. I would say I am budding Data Scientist with extenstive experience 
-              working with one of the leading semiconductor manufacturing industries through optimizing their manufacturing 
-              processes by collecting process data, pre-processing, and 
-              identifying trends and opportunities to enhance the module performance by analyzing the data sets.
+            I graduated from Maynooth University, Ireland in 2020 with a Master’s Degree 
+            in Data Science and Analytics. I would say I am an evolving Data Scientist 
+            with extensive experience working with one of the leading semiconductor 
+            manufacturing industries through optimizing their manufacturing processes 
+            by collecting process data, pre-processing, and identifying trends and 
+            opportunities to enhance the module performance by analyzing the data sets.
             </p>
             <br />
             <p>
