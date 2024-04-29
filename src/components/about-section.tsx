@@ -57,7 +57,7 @@ const AboutSection = () => {
               <span className="font-bold text-teal-500">
                 never stop growing
               </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for store telling and
+              and that&#39;s what I strive to do, I have a passion for story telling and
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
               always open to new opportunities. 🙂

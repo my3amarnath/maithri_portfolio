@@ -28,7 +28,7 @@ const HeroSection = () => {
             </span>
             based in Sherbrooke, Canada. With the aid of my previous experiences, 
             I am working towards expanding my skills and knowledge in the field of Data Science 
-            by researching new projects..
+            by researching new projects.
           </p>
           <Link
             to="projects"
